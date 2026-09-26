@@ -30,7 +30,7 @@ let tinggiBadan: Int = 178
 
 print(umur, tinggiBadan)
 
-// opstionals
+// optionals
 // kita bisa menggunakan tanda '?' untuk mendeklarasikan nilai yang kemungkinan 'nil'
 var namaRt: String? = nil
 //namaRt = "Pak Rehan"
@@ -39,3 +39,4 @@ var namaRt: String? = nil
 print(namaRt ?? "None")
 
 
+sefsefsef
